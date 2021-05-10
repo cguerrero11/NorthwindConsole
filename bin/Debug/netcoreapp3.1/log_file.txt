@@ -1,0 +1,150 @@
+2021-04-12 13:36:40.6402|INFO|NorthwindConsole.Program|Option 1 selected
+2021-04-12 13:36:44.1426|ERROR|NorthwindConsole.Program|Value cannot be null. (Parameter 'connectionString')
+2021-04-12 13:40:53.5147|INFO|NorthwindConsole.Program|Option 1 selected
+2021-04-12 13:41:17.3949|INFO|NorthwindConsole.Program|Option q selected
+2021-04-26 13:27:42.2746|INFO|NorthwindConsole.Program|Program started
+2021-04-26 13:28:00.7284|INFO|NorthwindConsole.Program|Option 4 selected
+2021-04-26 13:28:12.4431|INFO|NorthwindConsole.Program|Option 1 selected
+2021-04-26 13:28:23.7378|INFO|NorthwindConsole.Program|Option 3 selected
+2021-04-26 13:28:27.0705|INFO|NorthwindConsole.Program|CategoryId 2 selected
+2021-04-26 13:28:35.6480|INFO|NorthwindConsole.Program|Option q selected
+2021-04-26 13:28:35.6695|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 15:58:07.3423|INFO|NorthwindConsole.Program|Program started
+2021-05-08 15:58:13.3165|INFO|NorthwindConsole.Program|Option 5 selected
+2021-05-08 15:59:48.7144|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2021-05-08 16:00:11.7320|INFO|NorthwindConsole.Program|SupplierId 23 selected
+2021-05-08 16:00:11.8417|ERROR|NorthwindConsole.Program|Name : Product name exists
+2021-05-08 16:00:34.4739|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:00:40.1412|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:00:40.1412|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:02:29.3894|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:02:31.9383|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:02:34.8078|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:02:34.8078|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:05:42.9445|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:05:46.4547|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:05:49.1050|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:05:49.1050|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:06:26.7214|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:06:35.8221|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:06:38.4411|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:06:38.4411|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:08:45.9683|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:08:48.5458|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:09:04.0485|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:09:04.0485|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:10:06.4893|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:10:11.4979|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:10:14.3890|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:10:14.3890|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:10:26.6898|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:10:30.9102|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:10:34.0212|ERROR|NorthwindConsole.Program|There is already an open DataReader associated with this Connection which must be closed first.
+2021-05-08 16:10:34.0212|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:16:00.5570|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:16:15.7943|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:16:17.5035|ERROR|NorthwindConsole.Program|Value cannot be null. (Parameter 'connectionString')
+2021-05-08 16:16:17.5035|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:17:27.8483|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:17:30.7131|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:17:32.3007|ERROR|NorthwindConsole.Program|Value cannot be null. (Parameter 'connectionString')
+2021-05-08 16:17:32.3007|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:17:53.7883|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:17:54.6676|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:17:55.5258|ERROR|NorthwindConsole.Program|Value cannot be null. (Parameter 'connectionString')
+2021-05-08 16:17:55.5258|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:19:55.4273|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:19:57.3843|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:20:01.9502|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-08 16:20:42.5231|INFO|NorthwindConsole.Program|Option q selected
+2021-05-08 16:20:42.5231|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:20:48.0820|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:20:49.8809|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:20:54.6482|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-08 16:21:59.3736|INFO|NorthwindConsole.Program|Option q selected
+2021-05-08 16:21:59.3736|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:22:05.2184|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:22:06.4112|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:22:11.1803|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-08 16:22:17.6793|INFO|NorthwindConsole.Program|Option q selected
+2021-05-08 16:22:17.6793|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:22:47.9243|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:22:49.6895|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:22:54.1474|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-08 16:26:03.1706|INFO|NorthwindConsole.Program|Option q selected
+2021-05-08 16:26:03.1706|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:26:07.7091|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:26:10.5125|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:26:13.5365|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-08 16:27:06.6499|INFO|NorthwindConsole.Program|Option q selected
+2021-05-08 16:27:06.6499|INFO|NorthwindConsole.Program|Program ended
+2021-05-08 16:27:10.9777|INFO|NorthwindConsole.Program|Program started
+2021-05-08 16:27:13.2658|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-08 16:27:15.7972|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-09 15:02:18.8690|INFO|NorthwindConsole.Program|Option q selected
+2021-05-09 15:02:19.4116|INFO|NorthwindConsole.Program|Program ended
+2021-05-09 15:48:54.4340|INFO|NorthwindConsole.Program|Program started
+2021-05-09 15:48:57.4978|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-09 15:49:02.7127|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-09 15:49:37.0782|INFO|NorthwindConsole.Program|Option 5 selected
+2021-05-09 15:49:59.0181|INFO|NorthwindConsole.Program|CategoryId 2 selected
+2021-05-09 15:50:03.2755|INFO|NorthwindConsole.Program|SupplierId 23 selected
+2021-05-09 15:50:03.3758|ERROR|NorthwindConsole.Program|Name : Product name exists
+2021-05-09 15:52:11.8128|INFO|NorthwindConsole.Program|Option q selected
+2021-05-09 15:52:11.8128|INFO|NorthwindConsole.Program|Program ended
+2021-05-09 15:52:17.3930|INFO|NorthwindConsole.Program|Program started
+2021-05-09 15:52:20.9384|INFO|NorthwindConsole.Program|Option 5 selected
+2021-05-09 15:52:38.7018|INFO|NorthwindConsole.Program|CategoryId 2 selected
+2021-05-09 15:52:41.5320|INFO|NorthwindConsole.Program|SupplierId 23 selected
+2021-05-09 15:52:41.6162|ERROR|NorthwindConsole.Program|Name : Product name exists
+2021-05-09 15:52:53.0547|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-09 15:52:55.0857|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-09 15:54:11.3424|INFO|NorthwindConsole.Program|Option q selected
+2021-05-09 15:54:11.3424|INFO|NorthwindConsole.Program|Program ended
+2021-05-09 15:54:16.0269|INFO|NorthwindConsole.Program|Program started
+2021-05-09 15:54:20.9363|INFO|NorthwindConsole.Program|Option 5 selected
+2021-05-09 15:54:38.3655|INFO|NorthwindConsole.Program|CategoryId 3 selected
+2021-05-09 15:54:40.2691|INFO|NorthwindConsole.Program|SupplierId 23 selected
+2021-05-09 15:54:40.3556|ERROR|NorthwindConsole.Program|Name : Product name exists
+2021-05-09 15:55:38.1620|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-09 15:55:43.1227|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-09 15:56:03.8658|INFO|NorthwindConsole.Program|Option q selected
+2021-05-09 15:56:03.8658|INFO|NorthwindConsole.Program|Program ended
+2021-05-09 15:56:09.3725|INFO|NorthwindConsole.Program|Program started
+2021-05-09 15:56:10.7540|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-09 15:56:12.6921|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-09 15:56:38.0576|INFO|NorthwindConsole.Program|Option 7 selected
+2021-05-09 15:56:38.2267|ERROR|NorthwindConsole.Program|Invalid Product Id
+2021-05-09 15:56:50.4691|ERROR|NorthwindConsole.Program|Input string was not in a correct format.
+2021-05-09 15:56:50.4691|INFO|NorthwindConsole.Program|Program ended
+2021-05-10 14:00:51.0092|INFO|NorthwindConsole.Program|Program started
+2021-05-10 14:00:57.6369|INFO|NorthwindConsole.Program|Option 1 selected
+2021-05-10 14:01:09.6570|INFO|NorthwindConsole.Program|Option 2 selected
+2021-05-10 14:01:29.4355|INFO|NorthwindConsole.Program|Validation passed
+2021-05-10 14:01:36.6483|INFO|NorthwindConsole.Program|Option 1 selected
+2021-05-10 14:01:47.7413|INFO|NorthwindConsole.Program|Option 3 selected
+2021-05-10 14:01:49.7632|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2021-05-10 14:02:04.1495|INFO|NorthwindConsole.Program|Option 4 selected
+2021-05-10 14:02:29.9890|INFO|NorthwindConsole.Program|Option 4 selected
+2021-05-10 14:02:35.1762|INFO|NorthwindConsole.Program|Option 5 selected
+2021-05-10 14:02:59.0063|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2021-05-10 14:03:01.4187|INFO|NorthwindConsole.Program|SupplierId 23 selected
+2021-05-10 14:03:01.4552|INFO|NorthwindConsole.Program|Validation passed
+2021-05-10 14:03:01.6525|INFO|NorthwindConsole.Program|Product added - "Something"
+2021-05-10 14:03:13.8895|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-10 14:03:35.0013|INFO|NorthwindConsole.Program|Option 7 selected
+2021-05-10 14:03:44.8368|INFO|NorthwindConsole.Program|ProductId 78 selected
+2021-05-10 14:08:35.4133|INFO|NorthwindConsole.Program|CategoryId 9 selected
+2021-05-10 14:08:38.0141|INFO|NorthwindConsole.Program|SupplierId 22 selected
+2021-05-10 14:08:38.1147|INFO|NorthwindConsole.Program|Validation passed
+2021-05-10 14:08:38.2421|INFO|NorthwindConsole.Program|Product (id: 78) updated
+2021-05-10 14:08:49.5481|INFO|NorthwindConsole.Program|Option 6 selected
+2021-05-10 14:09:43.0399|INFO|NorthwindConsole.Program|Option q selected
+2021-05-10 14:09:43.0416|INFO|NorthwindConsole.Program|Program ended
+2021-05-10 14:09:50.1767|INFO|NorthwindConsole.Program|Program started
+2021-05-10 14:09:59.6094|INFO|NorthwindConsole.Program|Option 8 selected
+2021-05-10 14:10:03.0277|INFO|NorthwindConsole.Program|CategoryId 9 selected
+2021-05-10 14:11:26.7826|ERROR|NorthwindConsole.Program|CategoryName : Name exists
+2021-05-10 14:11:26.9768|INFO|NorthwindConsole.Program|Category (id: 9) updated
+2021-05-10 14:11:38.9555|INFO|NorthwindConsole.Program|Option q selected
+2021-05-10 14:11:38.9555|INFO|NorthwindConsole.Program|Program ended
